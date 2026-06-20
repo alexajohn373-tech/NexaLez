@@ -1,0 +1,122 @@
+{
+  "c/invalid.c": {
+    "language": "C",
+    "Total Tokens": 21,
+    "Keywords": 4,
+    "Identifiers": 5,
+    "Numbers": 2,
+    "Operators": 3,
+    "Errors": 5,
+    "Symbols": 2
+  },
+  "c/valid.c": {
+    "language": "C",
+    "Total Tokens": 51,
+    "Keywords": 7,
+    "Identifiers": 11,
+    "Numbers": 5,
+    "Operators": 9,
+    "Errors": 0,
+    "Symbols": 4
+  },
+  "cpp/invalid.cpp": {
+    "language": "C++",
+    "Total Tokens": 27,
+    "Keywords": 3,
+    "Identifiers": 8,
+    "Numbers": 2,
+    "Operators": 8,
+    "Errors": 5,
+    "Symbols": 2
+  },
+  "cpp/valid.cpp": {
+    "language": "C++",
+    "Total Tokens": 64,
+    "Keywords": 8,
+    "Identifiers": 18,
+    "Numbers": 3,
+    "Operators": 12,
+    "Errors": 0,
+    "Symbols": 4
+  },
+  "csharp/invalid.cs": {
+    "language": "C#",
+    "Total Tokens": 30,
+    "Keywords": 9,
+    "Identifiers": 7,
+    "Numbers": 2,
+    "Operators": 4,
+    "Errors": 5,
+    "Symbols": 3
+  },
+  "csharp/valid.cs": {
+    "language": "C#",
+    "Total Tokens": 69,
+    "Keywords": 19,
+    "Identifiers": 13,
+    "Numbers": 2,
+    "Operators": 4,
+    "Errors": 0,
+    "Symbols": 5
+  },
+  "java/invalid.java": {
+    "language": "Java",
+    "Total Tokens": 31,
+    "Keywords": 9,
+    "Identifiers": 7,
+    "Numbers": 2,
+    "Operators": 4,
+    "Errors": 5,
+    "Symbols": 4
+  },
+  "java/valid.java": {
+    "language": "Java",
+    "Total Tokens": 60,
+    "Keywords": 14,
+    "Identifiers": 15,
+    "Numbers": 2,
+    "Operators": 4,
+    "Errors": 0,
+    "Symbols": 5
+  },
+  "javascript/invalid.js": {
+    "language": "JavaScript",
+    "Total Tokens": 20,
+    "Keywords": 3,
+    "Identifiers": 6,
+    "Numbers": 2,
+    "Operators": 4,
+    "Errors": 6,
+    "Symbols": 2
+  },
+  "javascript/valid.js": {
+    "language": "JavaScript",
+    "Total Tokens": 64,
+    "Keywords": 8,
+    "Identifiers": 16,
+    "Numbers": 2,
+    "Operators": 4,
+    "Errors": 0,
+    "Symbols": 1
+  },
+  "Python/invalid.py": {
+    "language": "Python",
+    "Total Tokens": 18,
+    "Keywords": 2,
+    "Identifiers": 6,
+    "Numbers": 1,
+    "Operators": 6,
+    "Errors": 3,
+    "Symbols": 2
+  },
+  "Python/valid.py": {
+    "language": "Python",
+    "Total Tokens": 74,
+    "Keywords": 7,
+    "Identifiers": 26,
+    "Numbers": 3,
+    "Operators": 4,
+    "Errors": 0,
+    "Symbols": 5
+  }
+}
